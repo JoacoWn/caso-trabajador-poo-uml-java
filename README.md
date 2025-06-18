@@ -27,7 +27,7 @@ caso-trabajador-poo-uml-java/
 │   └── main/
 │       └── java/
 │           └── com/
-│               └── tu_usuario/                 (Reemplazar 'tu_usuario' por tu nombre de usuario o iniciales)
+│               └── Walala/                 (Reemplazar 'tu_usuario' por tu nombre de usuario o iniciales)
 │                   ├── clases/
 │                   │   ├── dominio/
 │                   │   │   ├── Persona.java
