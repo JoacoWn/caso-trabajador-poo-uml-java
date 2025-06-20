@@ -1,9 +1,9 @@
 package data;
 
 public class Persona {
-    String nombre;
-    String apellido;
-    String rut;
+    protected String nombre;
+    protected String apellido;
+    protected String rut;
 
     public Persona(String nombre, String apellido, String rut) {
         this.nombre = nombre;

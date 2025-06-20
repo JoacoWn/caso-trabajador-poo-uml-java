@@ -1,8 +1,8 @@
 package data;
 
 public class Trabajador extends Persona {
-    String isapre;
-    String afp;
+    private String isapre;
+    private String afp;
 
     public Trabajador(String nombre, String apellido, String rut, String isapre, String afp) {
         super(nombre, apellido, rut);
